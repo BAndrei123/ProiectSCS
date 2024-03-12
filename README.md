@@ -18,3 +18,5 @@ of multiple objects, particularly focusing on individuals. The project also empl
 experience by displaying a loading spinner until the model is fully loaded. Additionally, an emergency alarm, triggered upon the detection of a person, adds
 a real-world security element to the application. Overall, this project demonstrates a synergy between machine learning capabilities and a modern frontend
 framework to create a powerful and accessible security camera application.
+
+![](https://github.com/BAndrei123/Web-Security-Camera/blob/main/WebPage-Cam.PNG)
